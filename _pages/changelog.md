@@ -6,14 +6,9 @@ include_in_header: true
 
 # Changelog
 
-### `Initial Release`
-# **Version 1.0**
+<br>
 
-#### What's New
-- Add bikes
-- Browse bikes
-- Add components
-- Browse components
-- 
+##### `Initial Release`
+# Version 1.0.0
 
 <br>
