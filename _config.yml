@@ -47,9 +47,9 @@ features                                  :
     description                           : Track the mileage on every bike and component individually. Stay on top of maintentance and get insights in the lifespan of your favorite products.
     fontawesome_icon_name                 : tachometer-alt
 
-  # - title                                 : Link with Strave
-  #   description                           : Don't bother manually logging your rides. Connect the app with Strava and get notified when there's a new ride waiting to be logged to one of your bikes.
-  #   fontawesome_icon_name                 : strava
+  - title                                 : Link with Strave
+    description                           : Don't bother manually logging your rides. Connect the app with Strava and get notified when there's a new ride waiting to be logged to one of your bikes.
+    fontawesome_icon_name                 : strava
 
   # - title                                 : Maintenance intervals
   #   description                           : Setup maintenance intervals for your bikes and components and get notified when it's time for a service or upgrade.
