@@ -8,6 +8,15 @@ include_in_header: true
 
 <br>
 
+# Version 1.1.1
+Bugfixes & small improvements
+#### What's new?
+* Auto-detect metric/imperial from current locale
+* Remove the "Review" button from the settings page
+* Show a warning when Strava got disconnected from the application
+
+<br>
+
 ##### `Strava update`
 # Version 1.1.0
 You can now log in to the app with your Apple ID and link with Strava. This makes it easy to log your rides to the right bike in just a few taps. You'll also get notified when there's a new ride available so you won't miss any of that important data!
