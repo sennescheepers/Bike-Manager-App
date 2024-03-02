@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 March 2, 2024
 
-## End User License Agreement ("EULA")**
+## End User License Agreement ("EULA")
 
 This EULA constitutes a legal agreement between you and the developer, governing your use of the "Bike & MTB Manager" application ("Licensed Application") on Apple-branded Products. By utilizing the Licensed Application, you agree to abide by the terms outlined in this agreement.
 
